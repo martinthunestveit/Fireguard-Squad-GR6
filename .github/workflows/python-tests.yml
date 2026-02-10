@@ -1,4 +1,7 @@
-name: Fire-Risk Test
+      - name: Run fire-risk tests
+        run: |
+          python test_fire_risk.py
+
 
 on:
   push:
