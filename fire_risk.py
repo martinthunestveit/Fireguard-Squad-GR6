@@ -12,3 +12,5 @@ def get_traffic_light(ttf):
         return "yellow"
     else:
         return "green"
+
+#small changes
